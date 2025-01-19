@@ -1,0 +1,14 @@
+
+.bg-danger{
+    background-color: rgb(135, 56, 71) !important;
+}
+.btn-danger{
+    background-color: rgb(135, 56, 71) !important;
+}
+.btn-danger:hover{
+    color: rgb(135, 56, 71) !important;
+    background-color: white !important;
+}
+.text-danger{
+    color: rgb(135, 56, 71) !important;
+}
